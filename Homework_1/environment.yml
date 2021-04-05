@@ -1,0 +1,4 @@
+name: iap1
+channels:
+  - defaults
+prefix: /home/christine/anaconda3/envs/iap1
